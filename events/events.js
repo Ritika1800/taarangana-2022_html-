@@ -53,15 +53,15 @@ const eventDesc = {
 };
 
 const eventReg = {
-    'Mr and Ms Taarangana':'',
-    'Rangmanch':'Register',
-    'Aaghaz':'Register',
-    'Rap Battle':'Register',
-    'Group Singing-Antra':'Register',
-    'Urban Thump':'Register',
-    'Solo Singing-Anhad':'Register',
-    'Lilac Dreams':'Register',
-    'Slam Poetry':'Register',
+    'Mr and Ms Taarangana':'https://forms.gle/KPfK2as15LSVbBz9A',
+    'Rangmanch':'https://forms.gle/TVhRkdy61hYey7FZ8',
+    'Aaghaz':'https://forms.gle/zMqRs9Gk8qnnKwAK8',
+    'Rap Battle':'https://docs.google.com/forms/d/e/1FAIpQLScu5BEWZf6UzGFTJEI77ywX-5LTl03IBFL0HElmjnsDePEI1g/viewform?usp=sf_link',
+    'Group Singing-Antra':'https://forms.gle/3o2Yorc2i1HhnP2c8',
+    'Urban Thump':'https://forms.gle/PLtduUDHwmfcLSVPA',
+    'Solo Singing-Anhad':'https://docs.google.com/forms/d/e/1FAIpQLScd6uE5BhxzTHC39ZNJymNcFviXKpTkva_N1nxf3yG4gGz0bA/viewform?usp=sf_link',
+    'Lilac Dreams':'https://docs.google.com/forms/d/1CgYH64GaLk3CKpkPL8kt7yNPrjT1aaO7RvsVaCzpJEk/edit',
+    'Slam Poetry':'https://forms.gle/HMTvyfr7sRqvhW4P7',
     'Knight of the fall':'Register' 
 };
 
