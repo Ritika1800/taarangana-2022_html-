@@ -12,7 +12,7 @@ const eventsNames = [
     'Solo Singing-Anhad',
     'Lilac Dreams',
     'Slam Poetry',
-    'Knight of the fall'
+    'Knights of the fall'
 ];
 
 function fetchEvents() {
