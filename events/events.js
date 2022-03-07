@@ -62,7 +62,7 @@ const eventReg = {
     'Solo Singing-Anhad':'https://docs.google.com/forms/d/e/1FAIpQLScd6uE5BhxzTHC39ZNJymNcFviXKpTkva_N1nxf3yG4gGz0bA/viewform?usp=sf_link',
     'Lilac Dreams':'https://docs.google.com/forms/d/1CgYH64GaLk3CKpkPL8kt7yNPrjT1aaO7RvsVaCzpJEk/edit',
     'Slam Poetry':'https://forms.gle/HMTvyfr7sRqvhW4P7',
-    'Knight of the fall':'https://docs.google.com/forms/d/e/1FAIpQLSd-sniJldi6kp6pL2vetAdih0WPeEJhwe12bgWhawdGyeLDHQ/viewform?usp=sf_link' 
+    'Knights of the fall':'https://docs.google.com/forms/d/e/1FAIpQLSd-sniJldi6kp6pL2vetAdih0WPeEJhwe12bgWhawdGyeLDHQ/viewform?usp=sf_link' 
 };
 
 
